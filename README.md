@@ -1,11 +1,6 @@
-# 中文密码字典集合 (Chinese Password Dictionary Collection)
+# 中文密码字典集合
 
-[![GitHub stars](https://img.shields.io/github/stars/your-username/redteamnotes-chinese-passwords)](https://github.com/your-username/redteamnotes-chinese-passwords/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/your-username/redteamnotes-chinese-passwords)](https://github.com/your-username/redteamnotes-chinese-passwords/network)
-[![GitHub issues](https://img.shields.io/github/issues/your-username/redteamnotes-chinese-passwords)](https://github.com/your-username/redteamnotes-chinese-passwords/issues)
-[![GitHub license](https://img.shields.io/github/license/your-username/redteamnotes-chinese-passwords)](https://github.com/your-username/redteamnotes-chinese-passwords/blob/main/LICENSE)
-
-## 📖 项目简介
+## 📖 简介
 
 这是一个专门收集和整理中文密码的字典集合，主要用于安全测试、渗透测试和密码强度评估。本项目的密码字典涵盖了常见的中文密码模式，包括数字组合、拼音、常用词汇等。
 
@@ -52,8 +47,7 @@
 ### 中文密码特点
 - **数字组合**: 123456, 5201314, 147258369 等
 - **拼音密码**: woaini, qq123456, aini1314 等
-- **情感词汇**: woaini(我爱你), 5201314(我爱你一生一世) 等
-- **键盘模式**: qwerty, zxcvbnm, asdfghjkl 等
+- **键盘走位**: qwerty, zxcvbnm, asdfghjkl 等
 - **重复模式**: 111111, 000000, 123123 等
 
 ### 通用密码
@@ -107,41 +101,3 @@ hashcat -m 0 -a 0 hash.txt redteamnotes-chinese-passwords-pinyin.txt
 - ❌ 任何非法活动
 
 使用者需要确保在合法和授权的范围内使用这些工具。作者不对任何滥用行为承担责任。
-
-## 🤝 贡献指南
-
-欢迎提交 Issue 和 Pull Request 来改进这个项目！
-
-### 如何贡献
-1. Fork 本仓库
-2. 创建您的特性分支 (`git checkout -b feature/AmazingFeature`)
-3. 提交您的更改 (`git commit -m 'Add some AmazingFeature'`)
-4. 推送到分支 (`git push origin feature/AmazingFeature`)
-5. 打开一个 Pull Request
-
-## 📝 更新日志
-
-### v1.0.0
-- 初始版本发布
-- 包含100到500万不同大小的中文密码字典
-- 添加拼音密码字典
-- 添加通用密码字典
-
-## 📄 许可证
-
-本项目采用 MIT 许可证 - 查看 [LICENSE](LICENSE) 文件了解详情。
-
-## 🙏 致谢
-
-感谢所有为密码安全研究做出贡献的安全研究人员和社区成员。
-
-## 📞 联系方式
-
-如果您有任何问题或建议，请通过以下方式联系：
-
-- 提交 [Issue](https://github.com/your-username/redteamnotes-chinese-passwords/issues)
-- 发送邮件至: your-email@example.com
-
----
-
-**⭐ 如果这个项目对您有帮助，请给我们一个星标！** 
