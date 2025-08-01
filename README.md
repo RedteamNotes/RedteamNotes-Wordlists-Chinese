@@ -2,7 +2,7 @@
 
 基于泄露和统计的中文密码字典，按命中概率、使用场景与风险效率平衡进行了分层，可以直接使用或作为种子。
 
-本字典是对 RockYou、SecLists 及 Kali 自带字典的有力补充，专门面向中文场景下的密码破解需求，额外收录了高频中文密码、拼音／谐音变体和中英混合组合，旨在显著提升对中文用户密码的命中率。
+这些字典是对 [RockYou](https://weakpass.com/wordlists/rockyou.txt)、[SecLists](https://github.com/danielmiessler/SecLists)、[Weakpass](https://weakpass.com/all_in_one)、[CrackStation](https://crackstation.net/crackstation-wordlist-password-cracking-dictionary.htm)及 [Kali自带字典](https://www.kali.org/tools/wordlists/) 的有力补充，专门面向中文场景下的密码破解需求，额外收录了高频中文密码、拼音／谐音变体和中英混合组合，旨在显著提升对中文用户密码的命中率。
 
 ## 使用场景
 
